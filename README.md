@@ -1,0 +1,1 @@
+A mirror of Baidu map SDK v2.5.0.
